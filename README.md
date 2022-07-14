@@ -1,5 +1,3 @@
-# Ludo-Project
-
 Ludo - Game
 Ricardo Selas Vieira de Andrade
 
